@@ -589,7 +589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 161.925 95.25 0)
 			(effects
 				(font
@@ -665,7 +665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "I²C humidity and temperature sensor, ±2%RH, ±0.2°C, DFN-8"
 			(at 130.175 96.52 0)
 			(effects
 				(font
